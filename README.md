@@ -51,6 +51,10 @@ Safari zeigt keinen identischen Installationsdialog wie viele Desktop-Browser. D
 5. Einen Termin planen. Zukünftige Termine reagieren auf Geräteverfügbarkeit, deaktivierte Übungen und kurze Zeitfenster.
 6. Im Training tatsächliche Werte eingeben. Änderungen werden nach jeder Eingabe automatisch in IndexedDB gespeichert.
 
+## Leistungsprofil
+
+Unter `Mehr` > `Leistungsprofil` können Kraftwerte, Laufzeiten und Conditioning-/HYROX-Referenzwerte gepflegt werden. Unbekannte Werte bleiben leer; die App erzeugt keine fiktiven Leistungen.
+
 ## Datenexport und Datensicherung
 
 - `Mehr` > `Einstellungen & Daten` > `JSON-Sicherung exportieren` erstellt eine vollständige Sicherung.
