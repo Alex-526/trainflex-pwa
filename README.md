@@ -51,6 +51,13 @@ Safari zeigt keinen identischen Installationsdialog wie viele Desktop-Browser. D
 5. Einen Termin planen. Zukünftige Termine reagieren auf Geräteverfügbarkeit, deaktivierte Übungen und kurze Zeitfenster.
 6. Im Training tatsächliche Werte eingeben. Änderungen werden nach jeder Eingabe automatisch in IndexedDB gespeichert.
 
+## Version 4
+
+- Sieben vollständig vordefinierte Trainingsvorlagen: zwei Ganzkörper-, zwei Oberkörper-, zwei Unterkörper- und eine Conditioning/HYROX-Einheit.
+- Jede Vorlage enthält Übungen, Sätze, Wiederholungsbereiche und Ziel-RPE.
+- Zielgewichte bleiben absichtlich leer und werden während des Trainings mit den tatsächlich verwendeten Gewichten erfasst.
+- Vorhandene persönliche Vorlagen und Trainingsdaten bleiben erhalten.
+
 ## Version 3
 
 - Geräte lassen sich bearbeiten und löschen.
