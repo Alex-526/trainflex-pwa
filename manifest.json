@@ -1,0 +1,9 @@
+{
+  "name": "TrainFlex v5",
+  "short_name": "TrainFlex",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#101828",
+  "icons": []
+}
